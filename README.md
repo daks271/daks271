@@ -5,7 +5,7 @@ Hi, I'm Apoorva kharwade Nagose, a Data Science Enthusiast 🚀 from India, I ha
 
 Short Introduction:
 
-- 🔭 I’m currently working on project for Ai varient
+- 🔭 I’m currently working as Data Science Intern in The Sparks Foundation
 - 🌱 I’m currently learning data science and data analytics
 - 👯 I’m looking to collaborate on data science and machine learning work
 - 🤔 I’m actively seeking for job
